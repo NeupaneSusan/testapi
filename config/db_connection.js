@@ -3,8 +3,8 @@ const config = {
     
         host: "localhost",
         user: "root",
-        password: "password",
-        database: "testing",
+        password: "", // database_password
+        database: "", //database_name
      
 };
 
